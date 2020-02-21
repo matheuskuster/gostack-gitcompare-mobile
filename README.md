@@ -49,7 +49,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 $ git clone https://github.com/matheuskuster/gostack-gitcompare-mobile
 
 # Go into the repository
-$ cd gostack-gitcompare
+$ cd gostack-gitcompare-mobile
 
 # Install dependencies
 $ yarn install
@@ -58,10 +58,10 @@ $ yarn install
 $ react-native start
 
 # Run in Android
-$ react-native android
+$ react-native run-android
 
 # Run in iOS
-$ react-native ios
+$ react-native run-ios
 ```
 
 ## :memo: License
