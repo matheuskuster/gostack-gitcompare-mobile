@@ -16,8 +16,8 @@ GitCompare React Native
 
   <img alt="GitHub top language" src="https://img.shields.io/github/repo-size/matheuskuster/gostack-gitcompare-mobile.svg">
 
-  <a href="https://api.codacy.com/project/badge/Grade/c5aeea379c5041c1b34e4e0163e84496" target="_blank">
-    <img alt="Codacy Badge" src="https://img.shields.io/codacy/grade/c5aeea379c5041c1b34e4e0163e84496">
+  <a href="https://api.codacy.com/project/badge/Grade/642876d3ff104c78a519e4117a6e1f14" target="_blank">
+    <img alt="Codacy Badge" src="https://img.shields.io/codacy/grade/642876d3ff104c78a519e4117a6e1f14">
   </a>
 
   <img alt="GitHub top language" src="https://img.shields.io/github/last-commit/matheuskuster/gostack-gitcompare-mobile.svg">
