@@ -10,17 +10,17 @@ GitCompare React Native
 </h4>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheuskuster/gostack-gitcompare-mobile.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheuskuster/gostack-gitcompare-react-native.svg">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/matheuskuster/gostack-gitcompare-mobile.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/matheuskuster/gostack-gitcompare-react-native.svg">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/repo-size/matheuskuster/gostack-gitcompare-mobile.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/repo-size/matheuskuster/gostack-gitcompare-react-native.svg">
 
   <a href="https://api.codacy.com/project/badge/Grade/642876d3ff104c78a519e4117a6e1f14" target="_blank">
     <img alt="Codacy Badge" src="https://img.shields.io/codacy/grade/642876d3ff104c78a519e4117a6e1f14">
   </a>
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/last-commit/matheuskuster/gostack-gitcompare-mobile.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/last-commit/matheuskuster/gostack-gitcompare-react-native.svg">
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/matheuskuster/gostack-gitcompare-mobile
+$ git clone https://github.com/matheuskuster/gostack-gitcompare-react-native
 
 # Go into the repository
 $ cd gostack-gitcompare-mobile
@@ -66,7 +66,7 @@ $ react-native run-ios
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-gitcompare-mobile/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-gitcompare-react-native/blob/master/LICENSE) for more information.
 
 ---
 
